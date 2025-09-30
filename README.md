@@ -29,7 +29,8 @@ Web App Development · Full-stack · Automation (Recruiting/HR-Ops)
 
 ## Get in touch
 - ✉️ ilja@leithold.com
-- 🌐 https://www.leithold.com · https://www.hiringhack.de · https://www.recruiting-automations.org · https://www.fachinformatiker-bootcamp.de
+- 🌐 https://www.leithold.com
+- 🌐 https://www.recruiting-automations.org
 - 💼 LinkedIn: https://www.linkedin.com/in/ilja-leithold/
 
 ---
