@@ -12,11 +12,11 @@ Based near Cologne (Germany) · **Languages:** DE/EN
 - 🧭 Long-term goal: **useful, maintainable** full-stack apps that deliver real business impact.
 
 ## Currently learning
-- **Python**, **JavaScript/TypeScript**, **SQL**
-- Tooling/Stacks: **Supabase**, **FastAPI/Flask**, **Node.js**, **n8n**, **Git/GitHub**, **VS Code**
+- **Python**, **JavaScript/TypeScript**, **SQL**, **Java**, **SpringBoot**, **Docker**, **Kubernetes**
+- Tooling/Stacks: **Supabase**, **FastAPI/Flask**, **Node.js**, **n8n**, **Git/GitHub**, **VS Code**, **Azure DevOps**
 
 ## Skills & Tools (short)
-- **Languages:** Python · JavaScript · SQL  
+- **Languages:** Python · JavaScript · Java
 - **Web & Data:** FastAPI/Flask · Node.js · Supabase · REST · JSON  
 - **Dev tools:** Git · GitHub · VS Code · CLI  
 - **Focus areas:** Web App Development · Full-stack Basics · Recruiting Automations
@@ -26,12 +26,6 @@ Web App Development · Full-stack · Automation (Recruiting/HR-Ops)
 
 ## Projects
 ➡️ **Pinned repositories** below on the profile.
-
-## Get in touch
-- ✉️ ilja@leithold.com
-- 🌐 https://www.leithold.com
-- 🌐 https://www.recruiting-automations.org
-- 💼 LinkedIn: https://www.linkedin.com/in/ilja-leithold/
 
 ---
 
