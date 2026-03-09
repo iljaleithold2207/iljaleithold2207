@@ -1,6 +1,6 @@
 # Hi, I’m Ilja Leithold (@iljaleithold2207) 👋
 
-**Career-changer → Application Developer** · Headhunter & Founder · Building AI-Recruiting Automations
+**Career-changer → Application Developer** · Headhunter & Founder · Building AI Automations
 
 Based near Cologne (Germany) · **Languages:** DE/EN
 
